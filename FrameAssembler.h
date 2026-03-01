@@ -1,0 +1,4 @@
+#ifndef FRAMEASSEMBLER_H
+#define FRAMEASSEMBLER_H
+
+#endif // FRAMEASSEMBLER_H
